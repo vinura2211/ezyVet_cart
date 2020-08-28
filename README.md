@@ -37,6 +37,8 @@ How to interact with the webpage:
 The process I took to complete this assignment:
 
 When starting this assignment I had no knowledge of HTML or PHP so the first step was to learn the basics of both. 
-I also needed to download PHP and follow the steps above to be able to run the code. After learning the basics, I searched for code and tutorials that is similar to what I required and adapted this to my requirements. 
+I also needed to download PHP and follow the steps above to be able to run the code. 
+
+After learning the basics, I searched for code and tutorials that is similar to what I required and adapted this to my requirements. 
 This was a lengthy process as it required much trial and error.
  
