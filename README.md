@@ -16,7 +16,7 @@ How to run the PHP file:
 		4. Click "new" and write the file path to the PHP file (For me it was "C:\php").
 		5. Click "OK" for all the opened tabs.
 
-5. Open command prompt by searching "cmd" in the start menu and check the file path next to where you need to type. 
+5. Open command prompt by searching "cmd" in the start menu and check the file path next to where you need to type (For me it was C:\Users\vinur).
 
 6. Create a folder in that location (I created a file called "www").
 
